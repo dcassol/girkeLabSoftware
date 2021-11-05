@@ -17,4 +17,7 @@
 | [_systemPipeTools_](https://github.com/systemPipeR/systemPipeTools) | [![](http://bioconductor.org/shields/build/devel/bioc/systemPipeTools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/systemPipeTools) |[![](http://bioconductor.org/shields/build/release/bioc/systemPipeTools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/systemPipeTools) |
 
 ## Bioc Info
-[Link](https://bioconductor.org/developers/how-to/troubleshoot-build-report/)
+- [Link](https://bioconductor.org/developers/how-to/troubleshoot-build-report/)
+- Daily builder pulls starts around **11:30 AM PST**.
+- Changes pushed to Bioconductor before **11:30 AM PST** will be reflected in the following day’s build report that is posted around 8:30 AM PST.
+- Changes after **11:30 AM PST** will **not** be reflect until the day after tomorrow, therefore possibly taking up to 36-48 hours.

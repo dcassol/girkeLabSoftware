@@ -16,3 +16,5 @@
 | [_systemPipeShiny_](https://github.com/systemPipeR/systemPipeShiny) | [![](http://bioconductor.org/shields/build/devel/bioc/systemPipeShiny.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/systemPipeShiny) |[![](http://bioconductor.org/shields/build/release/bioc/systemPipeShiny.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/systemPipeShiny) |
 | [_systemPipeTools_](https://github.com/systemPipeR/systemPipeTools) | [![](http://bioconductor.org/shields/build/devel/bioc/systemPipeTools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/systemPipeTools) |[![](http://bioconductor.org/shields/build/release/bioc/systemPipeTools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/systemPipeTools) |
 
+## Bioc Info
+[Link](https://bioconductor.org/developers/how-to/troubleshoot-build-report/)
